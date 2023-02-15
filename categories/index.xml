@@ -9,16 +9,6 @@
       <url>https://hhan.works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://hhan.works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hhan.works/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>개발방법론</title>
-      <link>https://hhan.works/categories/%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hhan.works/categories/%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hhan.works/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

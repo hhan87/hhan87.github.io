@@ -9,43 +9,6 @@
       <url>https://hhan.works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://hhan.works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hhan.works/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Randomness</title>
-      <link>https://hhan.works/tags/randomness/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hhan.works/tags/randomness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taleb</title>
-      <link>https://hhan.works/tags/taleb/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hhan.works/tags/taleb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>개발방법론</title>
-      <link>https://hhan.works/tags/%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hhan.works/tags/%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>나심탈레브</title>
-      <link>https://hhan.works/tags/%EB%82%98%EC%8B%AC%ED%83%88%EB%A0%88%EB%B8%8C/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hhan.works/tags/%EB%82%98%EC%8B%AC%ED%83%88%EB%A0%88%EB%B8%8C/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hhan.works/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
