@@ -2,32 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on hhan&#39;s workspace</title>
-    <link>https://hhan.site/post/</link>
+    <link>https://hhan.works/post/</link>
     <description>Recent content in Posts on hhan&#39;s workspace</description>
     <image>
       <title>hhan&#39;s workspace</title>
-      <url>https://hhan.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://hhan.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://hhan.works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://hhan.works/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hhan.site/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hhan.works/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 프로젝트에서의 무작위성</title>
-      <link>https://hhan.site/post/randomness-in-a-project/</link>
+      <link>https://hhan.works/post/randomness-in-a-project/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hhan.site/post/randomness-in-a-project/</guid>
+      <guid>https://hhan.works/post/randomness-in-a-project/</guid>
       <description>나심탈레브가 준 충격 개발자로서 커리어를 시작하기 전에도 항상 궁금한 것이 있었다.
 무엇이 위대함을 이루게 하는가. 위대함을 이룰 수 있는 조건을 갖추지 못한다면 그 인생은 가치가 있는가? 여기서 말하는 위대함이란 어떤 성취와 그에 걸맞는 명성, 명예이며 IT업계에서의 예로는 리누스 토발즈, 스티브 잡스, 빌 게이츠와 같은 사람들과 어깨를 견줄 수 있는 것을 의미한다. 하지만 인생을 계속 살다보면 처음에는 무엇이든 할 수 있을 것 같은 자신감을 갖고 임하지만 자신의 한계를 깨달아 가면서 위대함은 어린 시절 치기어린 꿈이 되어버리곤 한다.</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://hhan.site/post/example_post/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hhan.site/post/example_post/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     
   </channel>

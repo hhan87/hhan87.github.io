@@ -2,46 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hhan.site/categories/</loc>
+    <loc>https://hhan.works/categories/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/</loc>
+    <loc>https://hhan.works/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/post/</loc>
+    <loc>https://hhan.works/post/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/tags/randomness/</loc>
+    <loc>https://hhan.works/tags/randomness/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/tags/</loc>
+    <loc>https://hhan.works/tags/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/tags/taleb/</loc>
+    <loc>https://hhan.works/tags/taleb/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/post/randomness-in-a-project/</loc>
+    <loc>https://hhan.works/post/randomness-in-a-project/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/tags/%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0/</loc>
+    <loc>https://hhan.works/tags/%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/categories/%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0/</loc>
+    <loc>https://hhan.works/categories/%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/tags/%EB%82%98%EC%8B%AC%ED%83%88%EB%A0%88%EB%B8%8C/</loc>
+    <loc>https://hhan.works/tags/%EB%82%98%EC%8B%AC%ED%83%88%EB%A0%88%EB%B8%8C/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhan.site/tags/markdown/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hhan.site/post/example_post/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hhan.site/categories/%EB%AC%B8%EC%84%9C/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hhan.site/about/</loc>
+    <loc>https://hhan.works/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
